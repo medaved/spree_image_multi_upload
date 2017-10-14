@@ -1,3 +1,2 @@
-//= require spree/backend/spree_core
-//= require spree/backend/jquery-fileupload/index
-
+//= require spree/backend
+//= require_tree .
