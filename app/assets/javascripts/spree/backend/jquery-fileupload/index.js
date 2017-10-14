@@ -1,4 +1,4 @@
-//=require ./vendor/jquery.ui.widget
+//=require vendor/jquery.ui.widget
 //=require ./vendor/load-image
 //=require ./vendor/canvas-to-blob
 //=require ./vendor/tmpl

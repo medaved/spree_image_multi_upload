@@ -3,7 +3,7 @@
 
 <%= render :partial => 'spree/shared/error_messages', :locals => {:target => @product} %>
 
-<%= form_for [:admin, @product, @image], :html => {:multipart => true, :id => "fileupload", :method => :post} do |f| %>
+<%= form_for [:backend, @product, @image], :html => {:multipart => true, :id => "fileupload", :method => :post} do |f| %>
     <fieldset data-hook="new_product">
       <legend align="center"><%= t('multi_upload.title') %></legend>
 

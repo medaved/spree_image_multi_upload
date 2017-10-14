@@ -1,5 +1,5 @@
 Spree::Core::Engine.routes.draw do
-  namespace :admin do
+  namespace :backend do
     resources :products do
       resources :images do
         collection do
