@@ -14,7 +14,7 @@ Installation
 
 To use the last stable release of spree_image_multi_upload, add the following to your Gemfile:
 ```ruby
-gem 'spree_image_multi_upload', github: 'medaved/spree_image_multi_upload', branch: 'spree_3.x'
+gem 'spree_image_multi_upload', github: 'medaved/spree_image_multi_upload'
 ```
 
 Now bundle up with:
@@ -22,12 +22,7 @@ Now bundle up with:
 bundle install
 ```
 
-Now run generator:
-```
-rake spree_image_multi_upload:install
-```
-
-Or custom setup, add lines in:
+Add lines in:
 
 vendor/assets/javascripts/backend/all.js
 ```
