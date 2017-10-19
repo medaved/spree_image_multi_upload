@@ -1,4 +1,8 @@
 ru:
+  are_you_sure: 'Вы уверены?'
+  delete: 'Удалить'
+  edit:   'Редактировать'
+  error:  'Ошибка'
   multi_upload:
     title: 'Расширенная загрузка файлов'
     add_files: 'Добавить файлы...'

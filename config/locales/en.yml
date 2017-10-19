@@ -1,4 +1,8 @@
 en:
+  are_you_sure: 'Are you sure?'
+  delete: 'Destroy'
+  edit:   'Edit'
+  error:  'Error'
   multi_upload:
     title: 'Advanced Images Upload'
     add_files: 'Add files...'
@@ -12,4 +16,3 @@ en:
       max_number_of_files: 'Max number of files exceeded'
       uploaded_bytes: 'Uploaded bytes exceed file size'
       empty_result: 'Empty file upload result'
-
